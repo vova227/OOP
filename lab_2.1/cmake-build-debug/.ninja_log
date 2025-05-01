@@ -1,0 +1,9 @@
+# ninja log v6
+14	1492	7677873347757255	CMakeFiles/lab_2_1.dir/Triangle.cpp.obj	71172d8d0bf3ddfa
+3	1567	7677873347652292	CMakeFiles/lab_2_1.dir/main.cpp.obj	e47878cfa7c2d9f8
+1567	1845	7677873363296123	lab_2_1.exe	f57cc53cc3d219d
+13	1787	7677890103026642	CMakeFiles/lab_2_1.dir/main.cpp.obj	e47878cfa7c2d9f8
+1789	2378	7677890120777499	lab_2_1.exe	f57cc53cc3d219d
+15	1182	7677903317715662	CMakeFiles/lab_2_1.dir/main.cpp.obj	e47878cfa7c2d9f8
+26	1505	7677903317819100	CMakeFiles/lab_2_1.dir/Triangle.cpp.obj	71172d8d0bf3ddfa
+1505	1989	7677903332611907	lab_2_1.exe	f57cc53cc3d219d
